@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Weather } from '../weather';
 import { WeatherService } from '../weather.service';
 
 @Component({
@@ -15,4 +16,5 @@ export class WeatherComponent {
   this.weatherService.getWeather(city).subscribe(weather => this.
  weather = weather);
  }
+  
 }
