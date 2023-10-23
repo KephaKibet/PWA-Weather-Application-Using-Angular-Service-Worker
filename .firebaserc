@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pwa-weather-app-4c7b6": {
+      "hosting": {
+        "PWA-Weather-Application-Using-Angular-Service-Worker": [
+          "pwa-weather-app-4c7b6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pwa-weather-app-4c7b6"
+  }
+}

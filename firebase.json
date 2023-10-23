@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "PWA-Weather-Application-Using-Angular-Service-Worker",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
